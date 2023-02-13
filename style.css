@@ -7,6 +7,7 @@ body {
 
 	background-color: rgb(255, 255, 255);
 	color: #020202;
+	
 }
 
 a {
@@ -42,9 +43,6 @@ a:hover {
 
 
 @media (max-width: 940px) {
-	
-
-
 }
 
 @media (max-width: 680px) {
